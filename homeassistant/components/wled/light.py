@@ -17,6 +17,8 @@ from homeassistant.components.light import (
 
 from homeassistant.const import CONF_HOST
 
+DOMAIN = "wled"
+
 _LOGGER = logging.getLogger(__name__)
 
 # Validation of the user's configuration
