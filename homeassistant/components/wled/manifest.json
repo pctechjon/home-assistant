@@ -1,0 +1,15 @@
+{
+  "domain": "wled",
+  "name": "WLED",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/wled",
+  "requirements": [
+    "wledpy-pctechjon==0.0.3"
+  ],
+  "ssdp": {},
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@pctechjon"
+  ]
+}
